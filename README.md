@@ -30,3 +30,5 @@ Evoke - Bring or recall to the conscious mind.
 Oblige - Make (someone) legally or morally bound to an action or course of action. 
 
 Narrative - A spoken or written account of connected events; a story.
+
+Arbitrary 
