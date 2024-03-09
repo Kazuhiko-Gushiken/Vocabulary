@@ -31,4 +31,6 @@ Oblige - Make (someone) legally or morally bound to an action or course of actio
 
 Narrative - A spoken or written account of connected events; a story.
 
-Arbitrary 
+Arbitrary - Based on random choice or personal whim, rather than any reason or system; (of a constant or other quantity) of unspecified value.
+
+Ronin - A Japanese student who has failed a college entrance examination and is studying to take it again.
