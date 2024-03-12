@@ -34,3 +34,7 @@ Narrative - A spoken or written account of connected events; a story.
 Arbitrary - Based on random choice or personal whim, rather than any reason or system; (of a constant or other quantity) of unspecified value.
 
 Ronin - A Japanese student who has failed a college entrance examination and is studying to take it again.
+
+Railroad (somebody) - To force someone to do something before they have had enough time to decide whether or not they want to do it.
+
+Serendipity - The occurrence and development of events by chance in a happy or beneficial way.
