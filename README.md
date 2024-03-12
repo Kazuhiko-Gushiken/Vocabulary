@@ -38,3 +38,5 @@ Ronin - A Japanese student who has failed a college entrance examination and is 
 Railroad (somebody) - To force someone to do something before they have had enough time to decide whether or not they want to do it.
 
 Serendipity - The occurrence and development of events by chance in a happy or beneficial way.
+
+Duplicitous - Deceitful.
