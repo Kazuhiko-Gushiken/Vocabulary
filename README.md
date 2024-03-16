@@ -40,3 +40,5 @@ Railroad (somebody) - To force someone to do something before they have had enou
 Serendipity - The occurrence and development of events by chance in a happy or beneficial way.
 
 Duplicitous - Deceitful.
+
+Arid - (of land or a climate) having little or no rain; too dry or barren to support vegetation. **|** lacking in interest, excitement, or meaning.
