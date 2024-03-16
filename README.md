@@ -42,3 +42,7 @@ Serendipity - The occurrence and development of events by chance in a happy or b
 Duplicitous - Deceitful.
 
 Arid - (of land or a climate) having little or no rain; too dry or barren to support vegetation. **|** lacking in interest, excitement, or meaning.
+
+Eternal - Having no beginning and no end.
+
+Constancy - The quality of being faithful and dependable.
