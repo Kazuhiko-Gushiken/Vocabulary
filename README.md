@@ -46,3 +46,5 @@ Arid - (of land or a climate) having little or no rain; too dry or barren to sup
 Eternal - Having no beginning and no end.
 
 Constancy - The quality of being faithful and dependable.
+
+Platitudes - A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.
