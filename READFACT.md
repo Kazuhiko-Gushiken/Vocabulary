@@ -1,0 +1,1 @@
+You can avoid red lights by drive at 114,004,827 miles per hour. At that speed they will be blue-shifted enough to appear green.
