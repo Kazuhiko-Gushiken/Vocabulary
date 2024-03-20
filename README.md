@@ -48,3 +48,8 @@ Eternal - Having no beginning and no end.
 Constancy - The quality of being faithful and dependable.
 
 Platitudes - A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.
+
+Querulous - constantly or habitually complaining; fretful or whining when describing something, such as a person's tone of voice.
+
+Luminary - a person of prominence or brilliant achievement. The word luminary may also refer to a celestial body, such as the sun or moon.
+
