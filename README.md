@@ -54,3 +54,5 @@ Querulous - constantly or habitually complaining; fretful or whining when descri
 Luminary - a person of prominence or brilliant achievement. The word luminary may also refer to a celestial body, such as the sun or moon.
 
 Bereft - deprived of or lacking (something). ; (of a person) sad and lonely, especially through someone's death or departure.
+
+Irate - feeling or characterized by great anger.
