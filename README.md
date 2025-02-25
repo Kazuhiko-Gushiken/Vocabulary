@@ -56,3 +56,27 @@ Luminary - a person of prominence or brilliant achievement. The word luminary ma
 Bereft - deprived of or lacking (something). ; (of a person) sad and lonely, especially through someone's death or departure.
 
 Irate - feeling or characterized by great anger.
+
+Superlative - of the highest quality or degree.
+
+Semantics - the meaning and interpretation of words, signs, and sentence structure
+
+Critically - in a way that expresses or involves an analysis of the merits and faults of a work of literature, music, or art.
+
+Melodrama - a sensational dramatic piece with exaggerated characters and exciting events intended to appeal to the emotions.
+
+Bittersweet - arousing pleasure tinged with sadness or pain.
+
+Objectively - in a way that is not influenced by personal feelings or opinions.
+
+Subjectively - in a way that is based on personal feelings, tastes, or opinions.
+
+Craft - exercise skill in making (something).
+
+Extravaganza - an elaborate and spectacular entertainment or production.
+
+Trope - a figurative or metaphorical use of a word or expression.
+
+Resonate - evoke or suggest images, memories, and emotions.
+
+Blanket Statement - a general statement that applies to a large group or concept without considering individual differences.
