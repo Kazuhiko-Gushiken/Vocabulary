@@ -80,3 +80,7 @@ Trope - a figurative or metaphorical use of a word or expression.
 Resonate - evoke or suggest images, memories, and emotions.
 
 Blanket Statement - a general statement that applies to a large group or concept without considering individual differences.
+
+raucous
+
+sparse
