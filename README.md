@@ -84,3 +84,8 @@ Blanket Statement - a general statement that applies to a large group or concept
 raucous
 
 sparse
+
+magnanimous
+
+hegemony
+
