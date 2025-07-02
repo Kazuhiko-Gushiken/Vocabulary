@@ -89,3 +89,4 @@ magnanimous
 
 hegemony
 
+magnanimity
