@@ -90,3 +90,5 @@ magnanimous
 hegemony
 
 magnanimity
+
+trepidation <-> trepidatious -
