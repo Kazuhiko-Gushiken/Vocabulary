@@ -92,3 +92,5 @@ hegemony
 magnanimity
 
 trepidation <-> trepidatious -
+
+martyr
