@@ -94,3 +94,5 @@ magnanimity
 trepidation <-> trepidatious -
 
 martyr
+
+Ixnay - used in rejecting something specified. (piglatin)
