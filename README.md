@@ -96,3 +96,5 @@ trepidation <-> trepidatious -
 martyr
 
 Ixnay - used in rejecting something specified. (piglatin)
+
+Candor - the quality of being open and honest in expression; frankness
