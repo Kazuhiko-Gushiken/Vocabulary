@@ -102,3 +102,5 @@ Candor - the quality of being open and honest in expression; frankness
 Hamartia - is a literary term derived from Ancient Greek, meaning to "miss the mark" or an error in judgment, famously used by Aristotle in Poetics to describe the fatal flaw or mistake causing a protagonist's downfall. It is someone's fatal flaw.
 
 Cantankerous - habitually angry or annoyed; suggestive or expressive of an irritable temperament; often difficult to deal with.
+
+Modicum - a small, moderate, or token amount of something, often referring to a limited quantity of a desirable or positive quality
